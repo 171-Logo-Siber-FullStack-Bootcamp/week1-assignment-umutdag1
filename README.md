@@ -26,8 +26,8 @@ cd week1-assignment-umutdag1
 npm start
 ```
 
-## Example Code (Örnek Code)
-```
+## Example Code (Örnek Kod)
+```ruby
 const url = "https://jsonplaceholder.typicode.cOm/users";
 
 const request = new myXHR("GET", url); // Creating HTTP Request Object
