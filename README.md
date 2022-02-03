@@ -26,7 +26,7 @@ cd week1-assignment-umutdag1
 npm start
 ```
 
-## Example Usage (Örnek)
+## Example Code (Örnek Code)
 ```
 const url = "https://jsonplaceholder.typicode.cOm/users";
 
