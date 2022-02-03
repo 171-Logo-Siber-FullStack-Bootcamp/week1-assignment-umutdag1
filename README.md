@@ -2,3 +2,26 @@
 # week1-assignment
 
 - XMLHttpRequest araştırılacak ve jsonplaceholder kullanılarak içerisindeki userlar console’a yazdırılacak.
+
+## XMLHttpRequest Assignment - Week 1 (XMLHttpRequest Ödevi - Hafta 1)
+
+This homework is done by umutdag for 171-Logo-Cyber-FullStack-Bootcamp - week 1's assignment.
+
+(Bu ödev umutdag tarafından 171-Logo-Siber-FullStack-Bootcamp - hafta 1 ödevi için yapılmıştır.)
+
+## Installation (Yükleme)
+
+Use the git clone command to clone the project to local.
+
+(Projeyi bilgisayara klonlamak için git clone komutunu kullanın.)
+
+```bash
+git clone https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-umutdag1
+```
+
+## Usage (Kullanım)
+
+```bash
+cd week1-assignment-umutdag1
+npm start
+```
