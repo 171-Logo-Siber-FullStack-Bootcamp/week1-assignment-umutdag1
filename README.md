@@ -28,7 +28,7 @@ npm start
 
 ## Example Code (Örnek Kod)
 ```js
-const url = "https://jsonplaceholder.typicode.cOm/users";
+const url = "https://jsonplaceholder.typicode.com/users";
 
 const request = new myXHR("GET", url); // Creating HTTP Request Object
 

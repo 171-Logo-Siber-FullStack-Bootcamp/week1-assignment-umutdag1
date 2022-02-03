@@ -1,6 +1,6 @@
 import myXHR from "./lib/xhr/myXHR.js"; // Using For Making a HTTP Request
 
-const url = "https://jsonplaceholder.typicode.cOm/users";
+const url = "https://jsonplaceholder.typicode.com/users";
 
 const request = new myXHR("GET", url); // Creating HTTP Request Object
 
