@@ -25,3 +25,21 @@ git clone https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-
 cd week1-assignment-umutdag1
 npm start
 ```
+
+## Example Usage (Örnek)
+```
+const url = "https://jsonplaceholder.typicode.cOm/users";
+
+const request = new myXHR("GET", url); // Creating HTTP Request Object
+
+request.setHeader("Content-type", "application/json"); 
+request.setHeader("Access-Control-Allow-Origin", "*");
+
+request.fetchResponse() // Fetching HTTP Response On Promise
+    .then((data) => {
+        console.log(data); // JSON Data
+    })
+    .catch((err) => {
+        console.log(err); // JSON Error
+    });
+```
