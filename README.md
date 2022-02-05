@@ -23,6 +23,7 @@ git clone https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-
 
 ```bash
 cd week1-assignment-umutdag1
+npm i
 npm start
 ```
 
