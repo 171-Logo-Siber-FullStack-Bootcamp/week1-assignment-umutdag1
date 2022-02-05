@@ -4,13 +4,13 @@ const url = "https://jsonplaceholder.typicode.com/users";
 
 const request = new myXHR("GET", url); // Creating HTTP Request Object
 
-request.setHeader("Content-Type", "application/json;charset=UTF-8");
-request.setHeader("Access-Control-Allow-Origin", "*");
+request.setHeader("Content-Type", "application/json;charset=UTF-8"); // Setting Request Header
+request.setHeader("Access-Control-Allow-Origin", "*"); // Setting Request Header
 
-request.fetchResponse() // Fetching HTTP Response On Promise
-    .then((data) => {
-        console.log(data); // JSON Data
+request.fetchResponse() // Making a HTTP Request and Fetching HTTP Response On Promise
+    .then((data) => { // If Request is Done Successfully
+        console.log(data); // JSON with NotNull Data
     })
-    .catch((err) => {
-        console.log(err); // JSON Error
+    .catch((err) => { // If Request is Either Down or Done Unsuccessfully
+        console.log(err); // JSON with NotNull Error
     });
