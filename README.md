@@ -5,9 +5,9 @@
 
 ## XMLHttpRequest Assignment - Week 1 (XMLHttpRequest Ödevi - Hafta 1)
 
-This homework is done by umutdag for 171-Logo-Cyber-FullStack-Bootcamp - week 1's assignment.
+This homework is done by umutdag1 for 171-Logo-Cyber-FullStack-Bootcamp - week 1's assignment.
 
-(Bu ödev umutdag tarafından 171-Logo-Siber-FullStack-Bootcamp - hafta 1 ödevi için yapılmıştır.)
+(Bu ödev umutdag1 tarafından 171-Logo-Siber-FullStack-Bootcamp - hafta 1 ödevi için yapılmıştır.)
 
 ## Installation (Yükleme)
 
