@@ -43,3 +43,6 @@ request.fetchResponse() // Fetching HTTP Response On Promise
         console.log(err); // JSON Error
     });
 ```
+
+## License
+[MIT](https://github.com/171-Logo-Siber-FullStack-Bootcamp/week1-assignment-umutdag1/blob/main/LICENSE)
