@@ -32,7 +32,7 @@ const url = "https://jsonplaceholder.typicode.com/users";
 
 const request = new myXHR("GET", url); // Creating HTTP Request Object
 
-request.setHeader("Content-type", "application/json"); 
+request.setHeader("Content-Type", "application/json;charset=UTF-8");
 request.setHeader("Access-Control-Allow-Origin", "*");
 
 request.fetchResponse() // Fetching HTTP Response On Promise
